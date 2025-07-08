@@ -1,4 +1,4 @@
-# 🧠 To-Do List Application (Python)
+# ✅ To-Do List Application (Python)
 
 A simple console-based To-Do List application written in Python.
 
